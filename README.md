@@ -34,9 +34,10 @@ This is Nufais, self taught Developer.
 <summary>My Streak Stat</summary>
 
 <br>
-<img src="http://github-readme-streak-stats.herokuapp.com?user=Aqnufais&theme=dark&hide_border=true"  alt="Aqnufais's streak stat"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aqnufais&theme=dark&hide_border=true" alt="Aqnufais's streak stat"/>
 
 </details>
+
 
 ---
 <div align="left">
