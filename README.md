@@ -6,7 +6,7 @@ This is Nufais, self taught Developer.
 
 
 
-- 🌱 I’m currently learning MERN Full Satck
+- 🌱 I’m currently learning DevOps
 - 🎓 Bachelor of Computer Applications
 
 **Languages and Tools:**
