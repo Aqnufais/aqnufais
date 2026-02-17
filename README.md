@@ -1,54 +1,79 @@
 [![Visits Badge](https://badges.pufler.dev/visits/Aqnufais/Aqnufais)](https://badges.pufler.dev/visits/Aqnufais/Aqnufais)
 
-## Hi there 👋
-This is Nufais, self taught Developer.
+## Hi there 👋  
+I'm Nufais, an aspiring **Network Engineer & Linux Administrator** with a strong foundation in **Linux, Networking, and Cloud fundamentals**. I am passionate about building, managing, and troubleshooting reliable network and infrastructure systems.
 
+- 🌱 Currently learning **CCNA, Linux Administration, and Cloud Computing**
+- 💻 Interested in **Networking, Linux, Cloud, DevOps & Infrastructure Engineering**
+- 🎓 Bachelor of Computer Applications (BCA)
+- 🚀 Actively seeking opportunities in **Network Engineer / NOC Engineer / Linux System Administrator roles**
 
+---
 
+## 🛠️ Skills & Tools
 
-- 🌱 I’m currently learning DevOps
-- 🎓 Bachelor of Computer Applications
+### 🔹 Networking
+- OSI & TCP/IP Models  
+- IP Addressing & Subnetting  
+- VLAN, Trunking, Inter-VLAN Routing  
+- Static Routing & OSPF  
+- NAT, DNS, DHCP  
+- Network Troubleshooting  
 
-**Languages and Tools:**
+### 🔹 Linux & System Administration
+- Linux Fundamentals  
+- User & File Management  
+- File Permissions  
+- Process Management  
+- Disk & Storage Management  
+- System Monitoring  
+- Shell Commands & Bash Basics  
+
+### 🔹 Cloud & DevOps (Learning Phase)
+- AWS Fundamentals  
+- Linux for DevOps  
+- Git & GitHub  
+- CI/CD Basics  
+
+---
+
+## 🧰 Tools & Technologies
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="aws logo" />
 </div>
 
-###
-## 🏅 Stats
+---
+
+## 🏅 GitHub Stats
 
 <details>
-<summary>My Streak Stat</summary>
+<summary>My GitHub Streak</summary>
 
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aqnufais&theme=dark&hide_border=true" alt="Aqnufais's streak stat"/>
 
 </details>
 
-
 ---
+
+## 🔗 Connect With Me
+
 <div align="left">
   <a href="https://www.linkedin.com/in/abdul-qadir-nufais-67717624b/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
   <a href="https://x.com/aqnufais944923" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
   </a>
 </div>
-
-###
-
-
