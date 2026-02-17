@@ -10,33 +10,6 @@ I'm Nufais, an aspiring **Network Engineer & Linux Administrator** with a strong
 
 ---
 
-## 🛠️ Skills & Tools
-
-### 🔹 Networking
-- OSI & TCP/IP Models  
-- IP Addressing & Subnetting  
-- VLAN, Trunking, Inter-VLAN Routing  
-- Static Routing & OSPF  
-- NAT, DNS, DHCP  
-- Network Troubleshooting  
-
-### 🔹 Linux & System Administration
-- Linux Fundamentals  
-- User & File Management  
-- File Permissions  
-- Process Management  
-- Disk & Storage Management  
-- System Monitoring  
-- Shell Commands & Bash Basics  
-
-### 🔹 Cloud & DevOps (Learning Phase)
-- AWS Fundamentals  
-- Linux for DevOps  
-- Git & GitHub  
-- CI/CD Basics  
-
----
-
 ## 🧰 Tools & Technologies
 
 <div align="left">
