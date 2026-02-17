@@ -8,7 +8,6 @@ I'm Nufais, an aspiring **Network Engineer & Linux Administrator** with a strong
 - 🎓 Bachelor of Computer Applications (BCA)
 - 🚀 Actively seeking opportunities in **Network Engineer / NOC Engineer / Linux System Administrator roles**
 
----
 
 ## 🧰 Tools & Technologies
 
@@ -26,7 +25,6 @@ I'm Nufais, an aspiring **Network Engineer & Linux Administrator** with a strong
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="aws logo" />
 </div>
 
----
 
 ## 🏅 GitHub Stats
 
@@ -38,7 +36,6 @@ I'm Nufais, an aspiring **Network Engineer & Linux Administrator** with a strong
 
 </details>
 
----
 
 ## 🔗 Connect With Me
 
